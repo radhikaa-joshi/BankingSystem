@@ -1,4 +1,4 @@
-# 🏦 Simple Banking System (Single Account)
+# 🏦 Simple Banking System
 
 A simple **console-based Banking System** built in **Core Java**.  
 This project demonstrates the use of **basic programming concepts** such as variables, conditionals, loops, and switch-case statements to perform banking operations for a **single account**.
